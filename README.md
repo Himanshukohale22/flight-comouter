@@ -22,17 +22,14 @@ Working:
   and location of rocket and deployment of paracutes can be done by MPU6050 adafruite  sensor . 
  
 PCB :
-file:///C:/Users/Hp/Pictures/Screenshots/Screenshot%20(82).png
+![image](https://user-images.githubusercontent.com/114358863/208731706-1bb48354-3c0c-45af-9ddb-ce6c1c61d72b.png)
 
-file:///C:/Users/Hp/Pictures/Screenshots/Screenshot%20(83).png
+![image](https://user-images.githubusercontent.com/114358863/208731733-b8e679fe-5a15-4814-8ce3-4beed3b9d4d7.png)
 
-file:///C:/Users/Hp/Pictures/Screenshots/Screenshot%20(84).png
 
-file:///C:/Users/Hp/Pictures/Screenshots/Screenshot%20(85).png
+![image](https://user-images.githubusercontent.com/114358863/208731538-8dfb0aad-b59e-437b-88e5-3e13bd8b42a1.png)
 
-file:///C:/Users/Hp/Pictures/Screenshots/Screenshot%20(94).png
+![image](https://user-images.githubusercontent.com/114358863/208731675-6bb43033-636a-443f-9d28-8891dafc77fb.png)
 
-file:///C:/Users/Hp/Pictures/Screenshots/Screenshot%20(97).png
 
-file:///C:/Users/Hp/Pictures/Screenshots/Screenshot%20(98).png
 
