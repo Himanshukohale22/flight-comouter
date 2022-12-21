@@ -1,4 +1,4 @@
-# flight-comouter
+# flight-computer
 arduino based flight comouter
 
 
